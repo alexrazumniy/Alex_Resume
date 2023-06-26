@@ -1,0 +1,15 @@
+@import "./blocks/header.scss";
+@import "./blocks/themetoggler.scss";
+@import "./blocks/about.scss";
+// @import "./blocks/loader.scss";
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: adjust-hue($color: #a8e9e6, $degrees: 0);
+}
+
+.container {
+  max-width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+}
