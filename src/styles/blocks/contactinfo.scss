@@ -1,0 +1,31 @@
+.contact_info {
+    width: 300px;
+    text-align: start;
+    background-color: #cbe9d6;
+    border-radius: 20px;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.phone, .email, .telegram, .location, .linkedin, .github {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+.telegram {
+    margin-left: 10px;
+}
+
+.phone_img, .email_img, .telegram_img, .location_img, .linkedin_img, .github_img {
+    margin-right: 10px;
+}
+
+
