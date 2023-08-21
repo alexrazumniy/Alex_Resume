@@ -188,6 +188,19 @@ h2 {
 .skills__item {
   padding: 20px;
   margin: 10px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+.skills__item:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.education {
+  background-color: #cbe9d6;
+  border-radius: 20px;
+  margin-top: 15px;
+  padding: 20px;
 }
 
 body {

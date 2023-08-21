@@ -1,8 +1,8 @@
 import student_cap from "../assets/student_cap.svg";
 
-const Experience = () => {
+const Education = () => {
   return (
-    <div>
+    <div className="education">
       <h2>Education</h2>
       <div className="university flex">
         <img src={student_cap} />
@@ -15,4 +15,4 @@ const Experience = () => {
     </div>
   );
 };
-export default Experience;
+export default Education;

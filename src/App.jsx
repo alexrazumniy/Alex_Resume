@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import ContactInfo from "./components/ContactInfo";
 import Skills from "./components/Skills";
-import Experience from "./components/Experience";
+import Education from "./components/Education";
 // import Loader from "./components/Loader";
 
 const App = () => {
@@ -12,7 +12,7 @@ const App = () => {
       <Header />
       <AboutMe />
       <ContactInfo />
-      <Experience />
+      <Education />
       <Skills />
       {/* <Loader /> */}
     </div>
