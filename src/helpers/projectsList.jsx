@@ -1,6 +1,6 @@
-import img01 from "./../assets/projects/01.jpg";
-import img02 from "./../assets/projects/02.jpg";
-import img03 from "./../assets/projects/03.jpg";
+import img01 from "./../assets/projects/project01.jpg";
+import img02 from "./../assets/projects/project02.jpg";
+import img03 from "./../assets/projects/project03.jpg";
 import img04 from "./../assets/projects/04.jpg";
 import img05 from "./../assets/projects/05.jpg";
 import img06 from "./../assets/projects/06.jpg";
@@ -23,16 +23,16 @@ const projectslist = [
   {
     id: 3,
     title: "Web Application",
-    skills: "HTML, CSS, Javascript",
-    img: img03,
-    gitHubLink: "https://alexrazumniy.github.io/Task-Manager/",
-  },
-  {
-    id: 4,
-    title: "Food order service",
     skills: "React, Node.js",
-    img: img04,
+    img: img03,
     gitHubLink: "https://alexrazumniy.github.io/MakeITtastier/",
+},
+{
+    id: 4,
+    title: "Web Application",
+    skills: "HTML, CSS, Javascript",
+    img: img04,
+    gitHubLink: "https://alexrazumniy.github.io/Task-Manager/",
   },
   {
     id: 5,
