@@ -26,8 +26,8 @@ const projectslist = [
     skills: "React, Node.js",
     img: img03,
     gitHubLink: "https://alexrazumniy.github.io/MakeITtastier/",
-},
-{
+  },
+  {
     id: 4,
     title: "Web Application",
     skills: "HTML, CSS, Javascript",
